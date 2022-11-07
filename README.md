@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @mariaraika
-- 👀 eu tenho interesse em aprender programar 
+- # Sobre mim.
+- ## editando perfil
+- Olá meu nome é @Mariaraika
+- 👀eu tenho interesse em aprender programar 
 - 💞️ Gosto de gatos
 - 📫  Moro em Ipiranga
 
